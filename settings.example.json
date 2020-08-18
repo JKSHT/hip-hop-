@@ -1,10 +1,10 @@
 {
-  "token": "token here",
-  "prefix": "prefix here",
+  "token": "NzM5Nzc2ODM2MjUwMzcwMTU4.XyfY3g.4YXpz6FA1Rnr_5emn6qFFAh_xhQ",
+  "prefix": "*",
   "managers": [
     "id of manager 1",
     "id of manager 2"
   ],
   "presence": "online",
-  "status": []
+  "status": [hh]
 }
