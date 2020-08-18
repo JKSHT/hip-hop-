@@ -1,0 +1,27 @@
+{
+  "name": "zapbot",
+  "version": "1.0.0",
+  "description": "A customized modular all-in-one Discord bot.",
+  "main": "bot.js",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "data-store": "^4.0.3",
+    "eris": "^0.11.1",
+    "require-reload": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"no test specified, but this should make Travis happy\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zapteryx/Zap.git"
+  },
+  "author": "zapteryx",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zapteryx/Zap/issues"
+  },
+  "homepage": "https://github.com/zapteryx/Zap#readme",
+  "keywords": []
+}
